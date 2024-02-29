@@ -39,6 +39,14 @@
       <th>Eating Out</th>
       <th>Entertainment</th>
     </tr>
+    <tr>
+      <td>August</td>
+      <td>$1500</td>
+      <td>$150</td>
+      <td>$350</td>
+      <td>$100</td>
+      <td>$50</td>
+    </tr>
   </table>
   
   </body>
