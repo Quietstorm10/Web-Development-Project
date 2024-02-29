@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My KSU Journey</title>
+    <meta charset="utf-8'>
+    <meta name="viewpoint" content="width=device-width, intial-scale=1">
+    <title>Page Title</title>
     <title>My KSU Journey</title>     
   </head>
   <body>
