@@ -3,11 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, intial-scale=1">
-    <title>My KSU Journey</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-       <h1>Web-Development-Project</h1>
-    <h2>Contact</h2>
+       <a href="https://www.google.com/"target=" blank"> Clickable link</a>
   </body>
 </html>
