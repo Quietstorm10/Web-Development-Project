@@ -3,8 +3,10 @@
   <head>
       <meta charset="utf-8'>
       <meta name="viewpoint" content="width=device-width, intial-scale=1">
+      <title>Web Development Project</title>        
   </head>
   <body>
-    # Web-Development-Project
+    <h1>Web-Development-Project</h1>
+    
   </body>
 </html>
