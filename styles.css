@@ -33,3 +33,10 @@ a {color: mintcream;}
 nav a{text-decoration: none;}
 
 nav a:hover{text-decoration: underline;}
+form {color: gold;}
+textarea 
+{
+      width: 10%; 
+      height: 100%; 
+      resize: vertical;
+}
