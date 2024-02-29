@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-   
+       <h1>Web-Development-Project</h1>
+    <h2>Contacty</h2>
   </body>
 </html>
