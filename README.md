@@ -14,7 +14,7 @@
     <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>
   <a href="https://www.google.com/"target=" blank"> Clickable link</a>
     <br>
-  <img src="https://placehold.co/600x400">
+  <img src="https://placehold.co/600x300" border="10">
     
   </body>
 </html>
