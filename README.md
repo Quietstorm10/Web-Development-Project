@@ -3,7 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, intial-scale=1">
-    <title>My KSU Journey</title>     
+    <title>
+      My KSU Journey
+    </title>     
   </head>
   <body>
     <h1>Web-Development-Project</h1>
