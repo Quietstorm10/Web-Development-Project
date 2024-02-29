@@ -30,7 +30,7 @@
     <li>dragonfruit</li>
   </ul>
 
-  <table cellpadding="10" cellspacing="10">
+  <table border="10" cellpadding="10" cellspacing="10">
     <tr>
       <th>Month</th>
       <th>Rent</th>
