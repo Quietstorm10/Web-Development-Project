@@ -17,6 +17,13 @@ h2
   font-size: 200%;
 }
 
+h3 
+{
+  color: black;
+  font-family: verdana;
+  font-size: 100%;
+}
+
 p 
 {
   color: mintcream;
@@ -28,12 +35,22 @@ nav ul {list-style-type: none;margin: 0;padding:0;}
 
 nav li {display: inline; margin-right: 2%; /}
 
-a {color: mintcream;}
+a 
+{
+  color: mintcream;
+  font-family: verdana;
+  font-size: 90%;
+}
 
 nav a{text-decoration: none;}
 
 nav a:hover{text-decoration: underline;}
-form {color: gold;}
+form 
+{
+  color: gold;
+  font-family: verdana;
+  font-size: 90%;
+}
 textarea 
 {
       width: 10%; 
