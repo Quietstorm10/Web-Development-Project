@@ -1,12 +1,23 @@
 body 
 {
-  background-color: powderblue;
+  background-color: lightslategrey;
 }
-h1 
-{
-  color: blue;
-}
+
 p 
 {
-  font-size: 10px;
+  font-size: 10%;
+}
+
+h1 
+{
+  color: gold;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+p 
+{
+  color: white;
+  font-family: courier;
+  font-size: 160%;
 }
