@@ -13,6 +13,6 @@
     <p><b>Praesent dapibus ultrices ante ut semper.</b> Vestibulum porttitor efficitur diam in sollicitudin. Proin non sodales eros, eget dapibus risus. Cras porta justo quam, sit amet luctus nisi vehicula quis. Donec a imperdiet sapien. Aliquam mattis libero nec tellus ornare viverra. Donec convallis eros vitae orci posuere, efficitur pretium nisi facilisis. Suspendisse tempor magna ac odio ultricies convallis. Cras vitae velit in dolor fermentum pellentesque. Proin vel lectus bibendum, volutpat arcu nec, dignissim purus. Donec scelerisque vitae ipsum elementum volutpat. Aliquam vel auctor diam. Phasellus lobortis purus lectus, eu malesuada felis mattis ac. Fusce id volutpat libero, sed iaculis nibh. Cras luctus, purus ac imperdiet rutrum, lectus odio dapibus neque, ornare commodo nisi nunc vitae felis.</p>
     <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>
   <a href="https://www.google.com/"target=" blank"> Clickable link</a>
-    
+  <img src="http://via.placeholder.com/350x150">  
   </body>
 </html>
