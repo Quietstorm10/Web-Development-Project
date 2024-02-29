@@ -19,7 +19,17 @@ h2
 
 p 
 {
-  color: white;
+  color: mintcream;
   font-family: verdana;
   font-size: 90%;
 }
+
+nav ul {list-style-type: none;margin: 0;padding:0;}
+
+nav li {display: inline; margin-right: 15px; /}
+
+a {color: mintcream;}
+
+nav a{text-decoration: none;}
+
+nav a:hover{text-decoration: underline;}
