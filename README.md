@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <h1>Web-Development-Project</h1>
+    <h1style="color:blue;">Web-Development-Project</h1>
     <h2>My KSU Journey</h2>
     <hr>
     <p><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</i> Nullam ut urna libero. Fusce rutrum nisl non dui luctus, id fermentum urna tempor. Morbi in nulla sed mauris vehicula iaculis. Aliquam magna est, porttitor eu nulla id, varius sagittis nunc. Etiam non nibh eget massa pretium tempus. Ut tempor enim imperdiet lorem faucibus scelerisque. Vestibulum volutpat sem ex, vitae imperdiet neque dignissim ac. Proin nisi lacus, gravida at feugiat in, lacinia id metus. Integer mollis arcu ultricies gravida accumsan. Quisque suscipit lectus at euismod vestibulum. Praesent pretium risus nisi, a porta tellus malesuada sit amet. Praesent sed maximus quam, vitae blandit mi. Nullam non sapien tristique, aliquam lacus vitae, accumsan risus. Integer luctus nisl nec diam tempus, non elementum massa pretium. Cras venenatis ultrices est sed viverra.</p>
