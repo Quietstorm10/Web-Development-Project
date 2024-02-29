@@ -18,6 +18,18 @@
     <h2>Find Me Here</h2>
     <hr>
     <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>
-    <a href="https://www.google.com/"target=" blank"> Insert links</a>
+    <a href="https://www.google.com/"target=" blank"> Insert Link</a>
+    <hr>
+    <form action="/submit" method="POST">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required><br>
+      <label for="subject">Subject:</label>
+      <input type="text" id="subject" name="subject" required><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" required></textarea> <br>
+      <button type="submit">Submit</button>
+    </form>
   </body>
 </html>
