@@ -40,10 +40,29 @@
       <th>Entertainment</th>
     </tr>
     <tr>
+      <td rowspan="3">Fall</td>
+      <td>June</td>
+      <td>$1500</td>
+      <td>$100</td>
+      <td>$50</td>
+      <td>$350</td>
+      <td>$100</td>
+      <td>$50</td>
+      </tr>
+    <tr>
+      <td>July</td>
+      <td>$1500</td>
+      <td>$100</td>
+      <td>$50</td>
+      <td>$350</td>
+      <td>$100</td>
+      <td>$50</td>
+    </tr>
+    <tr>
       <td>August</td>
       <td>$1500</td>
       <td>$100</td>
-      <td>$50t</td>
+      <td>$50</td>
       <td>$350</td>
       <td>$100</td>
       <td>$50</td>
