@@ -3,21 +3,23 @@ body
   background-color: dimgrey;
 }
 
-p 
+h1 
 {
-  font-size: 10%;
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
 }
 
-h1 
+h2 
 {
   color: gold;
   font-family: verdana;
-  font-size: 300%;
+  font-size: 200%;
 }
 
 p 
 {
   color: white;
-  font-family: courier;
-  font-size: 160%;
+  font-family: verdana;
+  font-size: 90%;
 }
