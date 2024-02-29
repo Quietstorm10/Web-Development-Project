@@ -17,7 +17,13 @@
   <img src="https://placehold.co/600x300" border="10">
 
   <ul>
-    <li>apples</li>
+    <li>apples
+    <ul>
+      <li>golden delicious</li>
+      <li>granny smith</li>
+      <li>gala</li>
+    </ul>
+    </li>
     <li>oranges</li>
     <li>pineapples</li>
     <li>mangoes</li>
