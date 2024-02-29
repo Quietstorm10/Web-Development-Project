@@ -30,11 +30,11 @@
     <li>dragonfruit</li>
   </ul>
 
-  <table border="10" cellpadding="10" cellspacing="10">
+  <table border="10" cellpadding="10" cellspacing="0">
     <tr>
       <th>Month</th>
       <th>Rent</th>
-      <th>Utility</th>
+      <th colspan="2">Utilities</th>
       <th>Groceries</th>
       <th>Eating Out</th>
       <th>Entertainment</th>
@@ -42,7 +42,8 @@
     <tr>
       <td>August</td>
       <td>$1500</td>
-      <td>$150</td>
+      <td>$100</td>
+      <td>$50t</td>
       <td>$350</td>
       <td>$100</td>
       <td>$50</td>
