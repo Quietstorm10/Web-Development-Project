@@ -15,6 +15,13 @@
   <a href="https://www.google.com/"target=" blank"> Clickable link</a>
     <br>
   <img src="https://placehold.co/600x300" border="10">
-    
+
+  <ul>
+    <li>apples</li>
+    <li>oranges</li>
+    <li>pineapples</li>
+    <li>mangoes</li>
+    <li>dragonfruit</li>
+  </ul>
   </body>
 </html>
