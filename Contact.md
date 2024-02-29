@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-       <a href="https://www.google.com/"target=" blank"> Clickable link</a>
+    <h1>Contact</h1>
+    <a href="https://www.google.com/"target=" blank"> Clickable link</a>
   </body>
 </html>
