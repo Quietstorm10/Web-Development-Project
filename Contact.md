@@ -17,9 +17,10 @@
       </nav>
     <h2>Find Me Here</h2>
     <hr>
-    <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>
+    <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>  
     <a href="https://www.google.com/"target=" blank"> Insert Link</a>
     <hr>
+    <h3>Contact Me:</h3>
     <form action="/submit" method="POST">
       <label for="name">Name:</label>
       <input type="text" id="name" name="name" required><br>
