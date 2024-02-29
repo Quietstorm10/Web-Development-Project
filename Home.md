@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, intial-scale=1">
-    <title>My KSU Journey</title>
+    <title>Home</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <h1>Web-Development-Project</h1>
+    <h1>Home</h1>
     
   </body>
 </html>
