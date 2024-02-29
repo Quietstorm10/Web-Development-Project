@@ -18,16 +18,28 @@
 
   <ul>
     <li>apples
-    <ul>
-      <li>golden delicious</li>
-      <li>granny smith</li>
-      <li>gala</li>
-    </ul>
+      <ul>
+        <li>golden delicious</li>
+        <li>granny smith</li>
+        <li>gala</li>
+      </ul>
     </li>
     <li>oranges</li>
     <li>pineapples</li>
     <li>mangoes</li>
     <li>dragonfruit</li>
   </ul>
+
+  <table>
+    <tr>
+      <th>Month</th>
+      <th>Rent</th>
+      <th>Utility</th>
+      <th>Groceries</th>
+      <th>Eating Out</th>
+      <th>Entertainment</th>
+    </tr>
+  </table>
+  
   </body>
 </html>
