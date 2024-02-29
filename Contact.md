@@ -8,6 +8,6 @@
   </head>
   <body>
        <h1>Web-Development-Project</h1>
-    <h2>Contacty</h2>
+    <h2>Contact</h2>
   </body>
 </html>
