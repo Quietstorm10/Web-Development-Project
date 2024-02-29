@@ -32,6 +32,7 @@
 
   <table border="10" cellpadding="10" cellspacing="0">
     <tr>
+      <th></th>
       <th>Month</th>
       <th>Rent</th>
       <th colspan="2">Utilities</th>
