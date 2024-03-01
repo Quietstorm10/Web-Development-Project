@@ -66,3 +66,18 @@ hr
   border: 1px solid mintcream;
   margin: 10px 0;
 }
+
+/* Hide menu */
+.menu {
+  display: none; 
+}
+
+/* Display menu */
+.menu.expanded {
+  display: block; 
+}
+
+/* Toggle button as block */
+.menu-toggle {
+  display: block; 
+}
