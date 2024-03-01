@@ -31,10 +31,12 @@ document.addEventListener('DOMContentLoaded', function() {
   const h1 = document.querySelector('h1');
 
   h1.addEventListener('mouseenter', function() {
-    h1.style.color = 'black';
+  // Hover color
+    h1.style.color = 'gold';
   });
 
   h1.addEventListener('mouseleave', function() {
+    // Default text color
     h1.style.color = 'black';
   });
 });
