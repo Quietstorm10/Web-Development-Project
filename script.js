@@ -1,13 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
-  
   // Menu
   const menuToggle = document.querySelector('.menu-toggle');
   const menu = document.querySelector('.menu');
   
-  //Menu expansion
+  // Menu expansion
   menuToggle.addEventListener('click', function() {
     menu.classList.toggle('expanded');
   });
+});
 
   // Confirming the form
   const contactForm = document.getElementById('contact-form');
