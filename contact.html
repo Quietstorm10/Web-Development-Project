@@ -46,6 +46,19 @@
       <label for="message">Message:</label><br>
       <textarea id="message" name="message" required></textarea> <br>
       <button type="submit">Submit</button>
+      <form id="contact-form" action="/submit" method="POST">
+      <!-- Needs labels for scripting -->  
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required><br>
+      <label for="subject">Subject:</label>
+      <input type="text" id="subject" name="subject" required><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" required></textarea> <br>
+      <button type="submit">Submit</button>
     </form>
+  <!-- Error message -->
+  <div id="form-error"></div>
   </body>
 </html>
