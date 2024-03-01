@@ -63,6 +63,6 @@ textarea
 hr 
 {
   display: block;
-  border: 1% mintcream;
-  margin: 10% 0; 
+  border: 1px solid mintcream;
+  margin: 10px 0;
 }
