@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-  
   // Menu
   const menu = document.querySelector('.menu');
   
@@ -7,6 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
   menu.addEventListener('click', function() {
     menu.classList.toggle('expanded');
   });
+
+  // Ensure the menu initially displays the navigation links
+  menu.classList.add('expanded');
 
   // Hover changes color
   const navLinks = document.querySelectorAll('.menu ul li a');
