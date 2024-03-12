@@ -9,16 +9,17 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   // Hover changes color
-  const h1 = document.querySelector('h1');
+  const navLinks = document.querySelectorAll('.menu ul li a');
 
-  h1.addEventListener('mouseenter', function() {
-    // Hover color
-    h1.style.color = 'gold';
-  });
+  navLinks.forEach(link => {
+    link.addEventListener('mouseenter', function() {
+      // Hover color
+      this.style.color = 'gold';
+    });
 
-  h1.addEventListener('mouseleave', function() {
-    // Default text color
-    h1.style.color = 'black';
+    link.addEventListener('mouseleave', function() {
+      // Default text color
+      this.style.color = 'mintcream';
+    });
   });
 });
-
