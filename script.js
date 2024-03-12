@@ -1,11 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
   
   // Menu
-  const menuToggle = document.querySelector('.menu-toggle');
   const menu = document.querySelector('.menu');
   
   // Menu expansion
-  menuToggle.addEventListener('click', function() {
+  menu.addEventListener('click', function() {
     menu.classList.toggle('expanded');
   });
 
