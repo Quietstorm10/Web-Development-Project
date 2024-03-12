@@ -1,99 +1,113 @@
-body 
-{
-
-  background-color: dimgrey;
-}
- 
-h1 
-{
-  color: black;
-  font-family: verdana;
-  font-size: 300%;
-}
- 
-h2 
-{
-  color: gold;
-  font-family: verdana;
-  font-size: 200%;
+/* Body styling */
+body {
+    background-color: dimgrey;
 }
 
-h3 
-{
-  color: black;
-  font-family: verdana;
-  font-size: 100%;
+/* Heading 1 styling */
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 300%;
 }
 
-p 
-{
-  color: mintcream;
-  font-family: verdana;
-  font-size: 90%;
+/* Heading 2 styling */
+h2 {
+    color: gold;
+    font-family: verdana;
+    font-size: 200%;
 }
 
-nav ul {list-style-type: none;margin: 0;padding:0;}
-
-nav li {display: inline; margin-right: 2%;}
-
-a 
-{
-  color: mintcream;
-  font-family: verdana;
-  font-size: 90%;
+/* Heading 3 styling */
+h3 {
+    color: black;
+    font-family: verdana;
+    font-size: 100%;
 }
 
-nav a{text-decoration: none;}
-
-nav a:hover{text-decoration: underline;}
-form 
-{
-  color: gold;
-  font-family: verdana;
-  font-size: 90%;
-}
-textarea 
-{
-      width: 10%; 
-      height: 100%; 
-      resize: vertical;
+/* Paragraph styling */
+p {
+    color: mintcream;
+    font-family: verdana;
+    font-size: 90%;
 }
 
-hr 
-{
-  display: block;
-  border: 1px solid mintcream;
-  margin: 10px 0;
+/* Navigation menu styling */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-/* Hide menu */
+nav li {
+    display: inline;
+    margin-right: 2%;
+}
+
+/* Anchor link styling */
+a {
+    color: mintcream;
+    font-family: verdana;
+    font-size: 90%;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+/* Hover effect on anchor links */
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Form styling */
+form {
+    color: gold;
+    font-family: verdana;
+    font-size: 90%;
+}
+
+textarea {
+    width: 10%;
+    height: 100%;
+    resize: vertical;
+}
+
+/* Horizontal rule styling */
+hr {
+    display: block;
+    border: 1px solid mintcream;
+    margin: 10px 0;
+}
+
+/* Hide menu by default */
 .menu ul {
-  display: none; 
+    display: none;
 }
 
-/* Display menu */
+/* Display menu when expanded */
 .menu.expanded ul {
-  display: block; 
+    display: block;
 }
 
-/* Style the menu */
+/* Styling for menu items */
 .menu ul {
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
 }
 
 .menu ul li {
-  display: block;
-  margin-bottom: 10px;
+    display: block;
+    margin-bottom: 10px;
 }
 
 .menu ul li a {
-  color: mintcream;
-  font-family: verdana;
-  font-size: 90%;
-  text-decoration: none;
+    color: mintcream;
+    font-family: verdana;
+    font-size: 90%;
+    text-decoration: none;
 }
 
 .menu ul li a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
