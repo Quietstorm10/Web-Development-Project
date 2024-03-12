@@ -67,16 +67,33 @@ hr
 }
 
 /* Hide menu */
-.menu {
+.menu ul {
   display: none; 
 }
 
 /* Display menu */
-.menu.expanded {
+.menu.expanded ul {
   display: block; 
 }
 
-/* Toggle button as block */
-.menu-toggle {
-  display: block; 
+/* Style the menu */
+.menu ul {
+  padding: 0;
+  margin: 0;
+}
+
+.menu ul li {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.menu ul li a {
+  color: mintcream;
+  font-family: verdana;
+  font-size: 90%;
+  text-decoration: none;
+}
+
+.menu ul li a:hover {
+  text-decoration: underline;
 }
