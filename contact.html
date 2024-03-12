@@ -1,51 +1,37 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <!-- encoding and viewport tags -->
+<head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
-    <!-- Title of the page -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact</title>
-    <!-- Link to external stylesheet --> 
     <link rel="stylesheet" href="styles.css">
-    <!-- Link to javascirpt -->
     <script src="script.js" defer></script>
-  </head>
-  <body>
-    <!-- Main heading --> 
-    <h1>Contact</h1> 
+</head>
+<body>
+    <h1>Contact</h1>
     <nav class="menu">
-      <ul>
-      <!-- Navigation links -->
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
     </nav>
-    <!-- Horizontal rule to seperate-->
     <hr>
-    <!-- Secondary heading -->
     <h2>Find Me Here</h2>
-    <!-- Paragraph filler content -->
-    <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>  
-    <!-- Anchor link -->
-    <a href="https://www.google.com/"target=" blank"> Insert Link</a>
-    <!-- Third heading -->
+    <p><i>Sed metus libero, faucibus in nunc sed, sollicitudin malesuada sem.</i> Praesent et bibendum leo. Suspendisse volutpat neque vitae elementum condimentum. Suspendisse viverra auctor luctus. Donec venenatis iaculis lorem, non pretium velit ultricies pulvinar. Curabitur sed diam dignissim, tempus dolor at, sagittis nulla. Vivamus nibh justo, accumsan ac elementum eu, scelerisque vitae ex.</p>
+    <a href="https://www.google.com/" target="_blank">Insert Link</a>
     <h3>Contact Me:</h3>
-    <!-- Form for contact -->
-    <form action="/submit" method="POST">
-      <form id="contact-form" action="/submit" method="POST"> 
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required><br>
-      <label for="email">Email:</label>
-      <input type="email" id="email" name="email" required><br>
-      <label for="subject">Subject:</label>
-      <input type="text" id="subject" name="subject" required><br>
-      <label for="message">Message:</label><br>
-      <textarea id="message" name="message" required></textarea> <br>
-      <button type="submit">Submit</button>
+    <form id="contact-form" action="/submit" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" name="subject" required><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" required></textarea><br>
+        <button type="submit">Submit</button>
     </form>
-  <!-- Error message -->
-  <div id="form-error"></div>
-  </body>
+    <div id="form-error"></div>
+</body>
 </html>
