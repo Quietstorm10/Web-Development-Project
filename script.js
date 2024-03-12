@@ -21,4 +21,4 @@ document.addEventListener('DOMContentLoaded', function() {
     h1.style.color = 'black';
   });
 });
- 
+
